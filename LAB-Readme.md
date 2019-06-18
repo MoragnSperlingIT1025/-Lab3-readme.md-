@@ -26,6 +26,40 @@
   The size of my logo is 788 bytes. My image has been opening with internet explorer. The only recommendations I have is Chrome and       Interner Explorer. This probably due to its large size.  
 
 # Lucidchart
+  
+  Lucidchart can be a very useful tool in the workplace. This software is used to make flowchart to further explain ideas and concpets.   Our assignment was to make a flow chart of a computer program to have the ouput of big anf small if the number was larger than 10 or   smaller than 10. I can really see how this can be used for more complex situations. 
+
+# Introduction to Networking
+
+
+  ## Data Transmission
+  
+  Packet- Unit of data 
+  Packet- Switching-Technology that allows packets of data to be routed based on destination address 
+  IP Address- Unique identifying number 
+  DNS- Directory of IP address common names. For example 54.239.26.214 might be the IP address of amazon.com
+  Protocol- Set of rules to allow devices to communicate 
+  
+  ## Networking Hardware
+  
+  Hub does not filter data or has any input of where the data needs to be sent. The hub gets the data and rebroadcasts it to all the     other ports that it is connected to. Switch though very similar, it is intelligent. Meaning it can learn the physical addresses of     where information needs to be sent. When a packet is sent to a switch the inforamtion is only sent to it intended desination.
+  
+  A router is used to send data outside their own network to another network by being able to read IP addresses. A router is essential   the gateway to the network.
+  
+  ## Network Topologies
+  
+  Single point of failure is when a hub or switch fails and all communication between computers fail and the entire network goes down. This uses the star, bus, and ring topology. Mesh topology is where all the computers are connected it handles failure very well. It Creates a high redundacy level becuase if one of the computers fail it will still able to communicate because all of the connections. It is used mostly for the internet. Infrastructure topology uses a combination of wired and wireless devices.  I think mesh topology would be the best to used because of its high redundacy.
+    
+    
+  
+  
+  
+  
+  
+      
+
+
+
 
 
 
