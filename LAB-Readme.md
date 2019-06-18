@@ -15,10 +15,17 @@
   
   
   Lossy compression means all the data from the original data from the orginal file and saves the image with a reduced file size.
-  Lossless compression are used by using run-length encoding, which takes runs of data, and stores them as a single value and count, this   is best used for simple graphics. It matters to developers because this all the effects the quality of the photo. 
+  Lossless compression are used by using run-length encoding, which takes runs of data, and stores them as a single value and count,     this is best used for simple graphics. It matters to developers because this all the effects the quality of the photo. 
   
-  GIF allows animated images, which can not be done on jpg and png. GIF supports up to 8 bits per pixel. JPEG is a image format that       usued lossy compression. The developer is able to fine-tune this image, which results in a better quality images. PNG is bitmapped       image that uses lossless data compression and was created to replace GIF. This type of image was not widely support by internet           explorer, no it is supported
+  GIF allows animated images, which can not be done on jpg and png. GIF supports up to 8 bits per pixel. JPEG is a image format that     usued lossy compression. The developer is able to fine-tune this image, which results in a better quality images. PNG is bitmapped     image that uses lossless data compression and was created to replace GIF. This type of image was not widely support by internet         explorer, no it is supported
+
+## File Properties
   
+  My image only has on layer, it was really simple. My logo is an I of internet and it is purple.
+  
+  The size of my logo is 788 bytes. My image has been opening with internet explorer. The only recommendations I have is Chrome and       Interner Explorer. This probably due to its large size.  
+    
+
   
 
 
