@@ -24,7 +24,10 @@
   My image only has on layer, it was really simple. My logo is an I of internet and it is purple.
   
   The size of my logo is 788 bytes. My image has been opening with internet explorer. The only recommendations I have is Chrome and       Interner Explorer. This probably due to its large size.  
-    
+
+# Lucidchart
+
+
 
   
 
