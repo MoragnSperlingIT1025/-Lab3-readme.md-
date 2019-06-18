@@ -49,7 +49,14 @@
   ## Network Topologies
   
   Single point of failure is when a hub or switch fails and all communication between computers fail and the entire network goes down. This uses the star, bus, and ring topology. Mesh topology is where all the computers are connected it handles failure very well. It Creates a high redundacy level becuase if one of the computers fail it will still able to communicate because all of the connections. It is used mostly for the internet. Infrastructure topology uses a combination of wired and wireless devices.  I think mesh topology would be the best to used because of its high redundacy.
-    
+ 
+ ## Network Design
+ 
+ My network is simple it starts from the could then goes through a firewall. Then through the router to the server then the switch to different computers within the same network. I relied heavily on the example because I was unsure of the task. 
+ 
+ ## NSA/CSS
+ 
+The NSA's role is U.S. cybersecurity is to defend and protect securtiy systems in the US. This includes military, and intelligence. NSA is also responible for the protection of US government information systems and communications. 
     
   
   
